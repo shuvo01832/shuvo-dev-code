@@ -104,6 +104,17 @@ nav .menu a{
     max-width: 1140px;
     margin: 0 auto;
     text-align: center;
-    background-color: #FFF8F3;
-    padding: 131px 156px;
+    background-color: #d7b9a4;
+    padding: 10px 10px;
+}
+#about .about-container {
+    display: flex;
+    justify-content: space-around;
+}
+.about-info .info-card p{
+     font-size: 20px;
+    color: #b68989;
+    line-height: 30px;
+   
+
 }
